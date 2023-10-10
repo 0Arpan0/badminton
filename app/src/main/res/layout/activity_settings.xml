@@ -98,7 +98,7 @@
 
         <ImageView
             android:id="@+id/imageButton33000"
-            android:layout_width="50dp"
+            android:layout_width="51dp"
             android:layout_height="45dp"
             android:layout_gravity="center"
             android:layout_weight="1"
